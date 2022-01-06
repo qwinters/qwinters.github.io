@@ -12,6 +12,10 @@ Here's a compiled collection of all the courses that I've done at TUM along with
 * [MA5417 Large Deviations](https://qwinters.github.io/ma5417-ldp)
 * [MA5929 Identification of Artificial Neural Networks](https://qwinters.github.io/ma5929-id-of-ann)
 * [MA5933 Optimal Transport, Numerics, and Sampling](https://qwinters.github.io/ma5933-opt-transport)
-* Hauptseminare: Infinite Dimensional Analysis
-* Hauptseminare: Functional Inequalities and PDEs
+* [Hauptseminare: Infinite Dimensional Analysis](https://qwinters.github.io/sem-infinite-dim-analysis)
+* [Hauptseminare: Functional Inequalities and PDEs](https://qwinters.github.io/hauptseminare-func-ineq)
+
+
+
+
 
