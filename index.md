@@ -18,7 +18,7 @@ I did my undergraduate degree at [Case Western Reserve University in Mathematics
 
 #### Outside of mathematics...
 
-Other than mathematics, I'm a magician and helping lead the [TUM Zauberer](https://tumzauberer.club) meetup. 
+Other than mathematics, I'm a magician and helping lead the [TUM Zauberer](https://tumzauberer.club) meetup. I also like programming a little and am extremely passionate about open academia/open science. You can find out more about the [dotfiles I use programming here](https://qwinters.me/dotfiles) and checkout some of the work I'm going to templatize LaTeX, Vim, and Website configurations to make sharing easier for students & professionals [here](https://github.com/AcademTeX).
 
 #### Contact information
 
