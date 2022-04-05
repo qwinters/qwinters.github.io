@@ -1,5 +1,24 @@
 title: qwinters
-logo: /assets/img/profile-pic.jpg
 description: Math => Software => Math; with a little bit of Magic between
-show_downloads: false
-theme: jekyll-theme-minimal
+
+author_name: Quinn Winters
+author_email: contact-me@qwinters.me
+author_gravatar: a8815f9170fc450895e3d9ed9372e28c  
+
+url: https://qwinters.me
+baseurl: 
+permalink: /posts/:title
+mathjax: true 
+
+highligher: rouge
+markdown: kramdown
+kramdown: 
+  input: GFM
+sass:
+  style: :compressed
+
+include: [ "coursework.md", "posts.md" ]
+exclude: [ "LICENSE", "README.md", "CNAME", "Gemfile" ]
+plugins: 
+  - jekyll-sitemap
+

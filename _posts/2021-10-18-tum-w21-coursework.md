@@ -1,16 +1,12 @@
 ---
 layout: default
+title: TU Munich Coursework - Winter 2021
 ---
 
-## Coursework at TU Munich
+## TU Munich winter term 2021 coursework
 
-Here's a compiled collection of all the courses that I've done at TUM along with their websites. 
+Here's what I'm studying in Winter 2021 Term at TU Munich: 
 
-#### Summer Term 2022
-
-For summer term 2022, I will be at Julian Fischer's group at the Institute for Science and Technology in Klosterneuburg, Austria (near Vienna). 
-
-#### Winter Term 2021/2022
 * [MA3001 Functional Analysis](https://qwinters.github.io/ma3001-func-analysis)
 * [MA5346 Random Matrix Theory](https://qwinters.github.io/ma5346-rmt)
 * [MA5417 Large Deviations](https://qwinters.github.io/ma5417-ldp)
