@@ -1,6 +1,6 @@
 ---
 layout: default
-title: TU Munich Coursework - Winter 2021
+title: TU Munich Coursework - Summer 2021
 ---
 
 ## TU Munich summer term 2022 coursework
