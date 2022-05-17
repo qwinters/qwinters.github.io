@@ -18,6 +18,7 @@ I did my undergraduate degree at [Case Western Reserve University in Mathematics
 
 Other than mathematics, I'm a magician and heping lead the [TUM Zauberer](https://tumzauberer.club) meetup. I also like programming a little and am extremely passionate about open academia/open science. You can find out more about the [dotfiles I use programming here](https://qwinters.me/dotfiles) and checkout some of the work I'm going to templatize LaTeX, Vim, and Website configurations to make sharing easier for students & professionals [here](https://github.com/AcademTeX).
 
-#### Contact information
+#### Contact information and CV
 
-If you need to get a hold of me, you can send me an email at **contact _dash_ me _at_ qwinters REMOVE THIS PART _dot_ me**. 
+If you need to get a hold of me, you can send me an email at **contact _dash_ me _at_ qwinters REMOVE THIS PART _dot_ me**. You can also download the 
+[most recent version of my CV here](./qwinters-cv.pdf)
