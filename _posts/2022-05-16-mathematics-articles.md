@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+author: Quinn Winters
 title: Mathematical bibliography: Books edition 
 ---
 

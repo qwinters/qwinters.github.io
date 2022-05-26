@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: post
+author: Quinn Winters
 title: TU Munich Coursework - Summer 2022
 ---
 
