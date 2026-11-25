@@ -1,0 +1,31 @@
+baseURL = 'https://qwinters.me/'
+locale = 'en-us'
+title = 'Quinn Winters!'
+disableKinds = ['taxonomy', 'term']
+
+
+[params]
+  description = 'Magician, I guess'
+  email = ''
+
+
+[menus]
+  [[menus.main]]
+    name = 'home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'about'
+    pageRef = '/about'
+    weight = 15
+  [[menus.main]]
+    name = 'writing'
+    pageRef = '/posts'
+    weight = 20
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']

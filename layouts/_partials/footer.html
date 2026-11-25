@@ -1,0 +1,5 @@
+<footer class="site-footer">
+  © {{ now.Year }} {{ site.Title }}
+  {{ with site.Params.email }} · <a href="mailto:{{ . }}">{{ . }}</a>{{ end }}
+  · <a href="{{ "posts/index.xml" | relURL }}">RSS</a>
+</footer>

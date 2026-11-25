@@ -1,0 +1,24 @@
+{{ define "main" }}
+<section class="intro">
+  {{ .Content }}
+</section>
+
+{{ with site.Params.projects }}
+<section>
+  <h2>Projects I'm actively working on</h2>
+  <ul class="list">
+    {{ range . }}
+    <li><a href="{{ .url }}">{{ .name }}</a> <span class="muted">— {{ .blurb }}</span></li>
+    {{ end }}
+  </ul>
+</section>
+{{ end }}
+
+{{ with first 5 (where site.RegularPages "Section" "posts") }}
+<section>
+  <h2>Stuff I've written recently</h2>
+  {{ partial "post-list.html" . }}
+  <p><a href="{{ "/posts" | relURL }}">All posts →</a></p>
+</section>
+{{ end }}
+{{ end }}
